@@ -1,0 +1,7 @@
+Invasive/train
+Invasive/test
+Invasive/test.7z*
+Invasive/train.7z
+*/*.zip
+*/*.csv
+Invasive/__MACOSX/
