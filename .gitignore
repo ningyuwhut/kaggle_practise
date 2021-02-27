@@ -5,3 +5,11 @@ Invasive/train.7z
 */*.zip
 */*.csv
 Invasive/__MACOSX/
+avazu/test*
+avazu/train*
+avazu/sample*
+avazu/scripts/__pycache__/*
+avazu/.idea/
+avazu/scripts/.idea/
+avazu/scripts/.ipynb_checkpoints/*
+avazu/scripts/nohup.out
